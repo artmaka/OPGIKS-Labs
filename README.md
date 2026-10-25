@@ -40,7 +40,8 @@ OPGIKS-Lab2/
 
 `cl2.py` содержит класс `OtherScalesConverter`, который обрабатывает изменения Fahrenheit и Kelvin и отправляет сигналы для обновления остальных полей.
 
-![alt text](<Screenshot 2026-10-25 230228.png>)
+<img width="672" height="374" alt="Screenshot 2026-10-25 230228" src="https://github.com/user-attachments/assets/3bf45854-a087-4eab-8f97-099191a9cee6" />
+
 
 ### Сигналы и слоты
 
@@ -110,6 +111,7 @@ python main.py
 
 В результате создано приложение, демонстрирующее работу стандартных и пользовательских сигналов и слотов PyQt5. Изменение любого значения температуры приводит к автоматическому обновлению двух остальных.
 
-![alt text](<Screenshot 2026-10-25 230241.png>)
+<img width="682" height="350" alt="Screenshot 2026-10-25 230241" src="https://github.com/user-attachments/assets/1e617cf1-a321-46ef-8d69-1ff1291f9c3c" />
 
-![alt text](<Screenshot 2026-10-25 230301.png>)
+<img width="700" height="364" alt="Screenshot 2026-10-25 230301" src="https://github.com/user-attachments/assets/133acd09-afbd-4661-a5b6-5e34fb168078" />
+
