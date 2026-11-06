@@ -3,5 +3,5 @@
 
 - [Лабораторная работа №1](https://github.com/artmaka/OPGIKS-Labs/tree/lab1?tab=readme-ov-file)
 - [Лабораторная работа №2](https://github.com/artmaka/OPGIKS-Labs/tree/lab2?tab=readme-ov-file)
-- Лабораторная работа №3
+- [Лабораторная работа №3](https://github.com/artmaka/OPGIKS-Labs/tree/lab3?tab=readme-ov-file)
 - Лабораторная работа №4
